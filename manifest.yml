@@ -1,0 +1,11 @@
+---
+applications:
+- name: fibonacci
+  memory: 512M
+  instances: 1
+  host: fibonacci
+  domain: northeast1.fe.gopivotal.com
+  path: build/libs/fibonacci-0.1.0.jar
+  services:
+    - fibonacci-mq
+    - fib-scaler
