@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Fibonacci auto-scaler
 =====================
 
@@ -25,3 +26,9 @@ count represents how many numbers
 Once you post, just relax and wait for the auto-scaller to start scalling the app.
 
 
+=======
+fibonacci
+=========
+
+Fibonacci auto scaller demo
+>>>>>>> 792325649a4a80f9432e454a94af848f5afd475b
