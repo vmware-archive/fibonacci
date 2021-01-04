@@ -1,4 +1,4 @@
-Fibonacci auto-scaler
+<h1> VMware has ended active development of this project, this repository will no longer be updated.</h1><br>Fibonacci auto-scaler
 =====================
 
 This is a very simple demo that uses fibonacci numbers to consume most of an app instance CPU.
